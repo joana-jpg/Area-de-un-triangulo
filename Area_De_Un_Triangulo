@@ -1,0 +1,8 @@
+Proceso Area_De_Un_Triangulo
+	Escribir "Escribe La Base";
+	Leer b;
+	Escribir "Escribe La Altura";
+	Leer h;
+	area<-b*h/2;
+	Escribir "El area es de:",area;
+FinProceso
